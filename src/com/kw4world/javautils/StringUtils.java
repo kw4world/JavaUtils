@@ -1,4 +1,4 @@
-package jp.co.ksk.android.hems.util;
+package com.kw4world.javautils;
 
 import java.util.ArrayList;
 import java.util.List;
